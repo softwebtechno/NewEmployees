@@ -1,4 +1,4 @@
-var serviceURL = "http://localhost:8080/services/";
+var serviceURL = "http://aapnosamaj.com/Services/";
 
 var employees;
 
